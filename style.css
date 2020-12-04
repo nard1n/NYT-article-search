@@ -6,6 +6,10 @@ footer {
     text-align: center;
 }
 
+.card {
+    margin: 5%;
+}
+
 .banner {
     color: whitesmoke;
     align-items: center;
@@ -14,10 +18,6 @@ footer {
     font-size: 44px;
     font-weight: bold;
     margin-top: 0%;
-}
-
-.card {
-    margin: 5%;
 }
 
 .news-icon {
