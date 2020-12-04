@@ -1,0 +1,45 @@
+. {
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+footer {
+    text-align: center;
+}
+
+.banner {
+    color: whitesmoke;
+    align-items: center;
+    background-color: rgb(16, 37, 113);
+    line-height: 400%;
+    font-size: 44px;
+    font-weight: bold;
+    margin-top: 0%;
+}
+
+.card {
+    margin: 5%;
+}
+
+.news-icon {
+    height: 45px;
+    margin-bottom: 10px;
+    filter: invert(1); 
+}
+.params-icon{
+    height: 15px;
+    margin-bottom: 2px;
+}
+.search-icon {
+    height: 15px;
+}
+
+.trash-icon {
+    height: 12px;
+    margin-bottom: 2px;
+}
+
+.grid-icon {
+    height: 12px;
+    margin-bottom: 5px;
+}
+
